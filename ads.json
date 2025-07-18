@@ -5,9 +5,9 @@
   "top": [
     {
       "id": "top_ad1",
-      "title": "최고 퀄리티 최저가",
-      "subtitle": "공유숙박 전용몰",
-      "link": "http://www.naver.com",
+      "title": "최고 퀄리티 최저가1",
+      "subtitle": "공유숙박 전용몰1",
+      "link": "http://www.naver.com1",
       "active": true,
       "icon": "🛒",
       "badge": "HOT",
@@ -16,9 +16,9 @@
     },
     {
       "id": "top_ad2",
-      "title": "전문가 입지분석",
-      "subtitle": "문의하기",
-      "link": "#",
+      "title": "전문가 입지분석2",
+      "subtitle": "문의하기2",
+      "link": "#2",
       "active": true,
       "icon": "📊",
       "badge": "NEW",
@@ -30,9 +30,9 @@
   "bottom": [
     {
       "id": "bottom_ad1",
-      "title": "숙소 운영 컨설팅",
-      "subtitle": "수익 극대화 솔루션",
-      "link": "#",
+      "title": "최고 퀄리티 최저가3",
+      "subtitle": "공유숙박 전용몰3",
+      "link": "#3",
       "active": true,
       "icon": "💰",
       "badge": "VIP",
@@ -41,9 +41,9 @@
     },
     {
       "id": "bottom_ad2",
-      "title": "실시간 시장 분석",
-      "subtitle": "데이터 기반 의사결정",
-      "link": "#",
+      "title": "전문가 입지분석4",
+      "subtitle": "문의하기4",
+      "link": "#4",
       "active": true,
       "icon": "📈",
       "badge": "PRO",
