@@ -1,0 +1,54 @@
+{
+  "version": "1.2.0",
+  "lastUpdated": "2025-01-18T15:30:00Z",
+  
+  "top": [
+    {
+      "id": "top_ad1",
+      "title": "최고 퀄리티 최저가",
+      "subtitle": "공유숙박 전용몰",
+      "link": "http://www.naver.com",
+      "active": true,
+      "icon": "🛒",
+      "badge": "HOT",
+      "style": "primary",
+      "position": "top"
+    },
+    {
+      "id": "top_ad2",
+      "title": "전문가 입지분석",
+      "subtitle": "문의하기",
+      "link": "#",
+      "active": true,
+      "icon": "📊",
+      "badge": "NEW",
+      "style": "secondary",
+      "position": "top"
+    }
+  ],
+
+  "bottom": [
+    {
+      "id": "bottom_ad1",
+      "title": "숙소 운영 컨설팅",
+      "subtitle": "수익 극대화 솔루션",
+      "link": "#",
+      "active": true,
+      "icon": "💰",
+      "badge": "VIP",
+      "style": "primary",
+      "position": "bottom"
+    },
+    {
+      "id": "bottom_ad2",
+      "title": "실시간 시장 분석",
+      "subtitle": "데이터 기반 의사결정",
+      "link": "#",
+      "active": true,
+      "icon": "📈",
+      "badge": "PRO",
+      "style": "secondary",
+      "position": "bottom"
+    }
+  ]
+}
