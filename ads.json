@@ -19,7 +19,7 @@
       "title": "전문가 입지분석",
       "subtitle": "문의하기",
       "link": "#2,
-      "active": true,
+      "active": false,
       "icon": "📊",
       "badge": "NEW",
       "style": "secondary",
